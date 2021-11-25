@@ -1,14 +1,21 @@
-# Advent of Code 2020
+# Advent of Code
 
-## This is just a small repository where I'll upload my progress on the 2020 edition of [Advent of Code](https://adventofcode.com/2020)
+![](https://img.shields.io/github/followers/vyctor661?label=Follow%20me&style=social) ![](https://img.shields.io/twitch/status/vycdev?style=social) ![](https://img.shields.io/twitter/follow/vyctor661?style=social)
+## About 
+This is my repository with my solutions for the very popular programming problems of [Advent of Code](https://adventofcode.com/).
 
-Make sure to check out the repositories of my friends as well:
+This repository may contain solutions written in purescript and typescript. 
 
-* xWafl
-  * [TS](https://github.com/xWafl/aoc-2020-ts)
-  * [Idris](https://github.com/xWafl/aoc-2020-idris)
-* [LordPos](https://github.com/Lordpos/aoc-2020)
-* [Mateiadrielrafael](https://github.com/Mateiadrielrafael/aoc2020)
-* [xl3ehindTim](https://github.com/xl3ehindTim/Advent-of-Code)
-* [BlueGhost](https://github.com/BlueGhostGH/advent-of-code-2020)
-* [Luke](https://github.com/justlucdewit/AOC)
+This year I will also try to stream everyday trying to solve the problemms on twitch.
+
+## Progress
+- [ ] 2021 - Waiting
+- [ ] 2020 - PureScript: 3/25 - Typescript 6/25
+- [ ] 2019 - Incomplete
+- [ ] 2018 - Incomplete
+- [ ] 2017 - Incomplete
+- [ ] 2016 - Incomplete
+- [ ] 2015 - Incomplete
+
+
+

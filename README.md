@@ -1,12 +1,12 @@
 # Advent of Code
 
-![](https://img.shields.io/github/followers/vyctor661?label=Follow%20me&style=social) ![](https://img.shields.io/twitch/status/vycdev?style=social) ![](https://img.shields.io/twitter/follow/vyctor661?style=social)
+[![](https://img.shields.io/github/followers/vycdev?label=Follow%20me&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvycdev) [![](https://img.shields.io/twitch/status/vycdev?style=social)](https://www.twitch.tv/vycdev) [![](https://img.shields.io/twitter/follow/vycdev?style=social)](https://twitter.com/vycdev)
 ## About 
-This is my repository with my solutions for the very popular programming problems of [Advent of Code](https://adventofcode.com/).
+This is my repository with my solutions for the very popular programming puzzles of [Advent of Code](https://adventofcode.com/).
 
 This repository may contain solutions written in purescript and typescript. 
 
-This year I will also try to stream everyday trying to solve the problemms on twitch.
+This year I will also try to stream everyday trying to solve the puzzles on twitch.
 
 ## Progress
 - [ ] 2021 - Waiting

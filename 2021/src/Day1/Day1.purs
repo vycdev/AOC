@@ -49,7 +49,7 @@ countChanges list = go list 0
 -- go (260 : 263 : Nil) 5
 -- go (263 : Nil) 5
 -- go Nil 5
--- 7
+-- 5
 countChanges2 :: List Int -> Int
 countChanges2 list = go list 0
   where

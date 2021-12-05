@@ -9,7 +9,7 @@ This repository may contain solutions written in purescript and typescript.
 This year I will also try to stream everyday trying to solve the puzzles on twitch.
 
 ## Progress
-- [ ] 2021 - Waiting
+- [ ] 2021 - In progress
 - [ ] 2020 - PureScript: 3/25 - Typescript 6/25
 - [ ] 2019 - Incomplete
 - [ ] 2018 - Incomplete

@@ -7,6 +7,7 @@
   , "lists"
   , "node-buffer"
   , "node-fs"
+  , "precise"
   , "prelude"
   , "psci-support"
   , "stringutils"

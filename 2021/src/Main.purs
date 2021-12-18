@@ -1,6 +1,6 @@
 module Main where
 
-import Day1 as Current
+import Day5 as Current
 import Prelude
 import Effect (Effect)
 

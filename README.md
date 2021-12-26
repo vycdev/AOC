@@ -6,7 +6,6 @@ This is my repository with my solutions for the very popular programming puzzles
 
 This repository may contain solutions written in purescript and typescript. 
 
-This year I will also try to stream everyday trying to solve the puzzles on twitch.
 
 ## Progress
 - [ ] 2021 - In progress

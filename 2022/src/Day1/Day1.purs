@@ -5,8 +5,10 @@ module Day1
 
 import Prelude
 
+import Effect (Effect)
 import Effect.Console (log)
 
 
+main ∷ Effect Unit
 main = do
   log "hello"

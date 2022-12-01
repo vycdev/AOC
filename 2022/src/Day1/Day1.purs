@@ -21,6 +21,8 @@ input = readTextFile UTF8 "src/Day1/input.txt"
 parse :: String -> (Array (Int))
 parse s = (\a -> fromMaybe 0 a) <$> ((\a -> fromString a) <$> (split (Pattern "\r\n") s))
 
+-- [(Just 1000),(Just 2000),(Just 3000),Nothing,(Just 4000),Nothing,(Just 5000),(Just 6000),Nothing,(Just 7000),(Just 8000),(Just 9000),Nothing,(Just 10000)]
+-- [[10000],[7000,8000,9000],[5000,6000],[4000],[1000,2000,3000]]
 format :: Array Int -> Array (Array Int)
 format arr = sadness arr []
   where

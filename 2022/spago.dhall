@@ -23,6 +23,8 @@ to generate this file without the comments in this block.
   , "prelude"
   , "profunctor"
   , "strings"
+  , "unicode"
+  , "unsafe-coerce"
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs" ]

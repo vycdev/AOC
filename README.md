@@ -8,7 +8,7 @@ This repository may contain solutions written in purescript and typescript.
 
 
 ## Progress
-- [ ] 2022 - PureScript: 1/25 
+- [ ] 2022 - PureScript: 3/25 
 - [ ] 2021 - PureScript: 5/25 
 - [ ] 2020 - PureScript: 3/25 - Typescript 6/25
 - [ ] 2019 - Incomplete

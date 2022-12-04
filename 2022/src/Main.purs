@@ -2,7 +2,7 @@ module Main where
 
 import Prelude
 
-import Day3 as Current
+import Day4 as Current
 
 import Effect (Effect)
 

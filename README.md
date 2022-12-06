@@ -8,14 +8,14 @@ This repository may contain solutions written in purescript and typescript.
 
 
 ## Progress
-- [ ] 2022 - PureScript: 5/25 
+- [ ] 2022 - PureScript: 6/25 
 - [ ] 2021 - PureScript: 5/25 
 - [ ] 2020 - PureScript: 3/25 - Typescript 6/25
-- [ ] 2019 - Incomplete
-- [ ] 2018 - Incomplete
-- [ ] 2017 - Incomplete
-- [ ] 2016 - Incomplete
-- [ ] 2015 - Incomplete
+- [ ] 2019 - 0/25
+- [ ] 2018 - 0/25
+- [ ] 2017 - 0/25
+- [ ] 2016 - 0/25
+- [ ] 2015 - 0/25
 
 
 

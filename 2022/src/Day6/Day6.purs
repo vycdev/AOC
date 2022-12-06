@@ -17,7 +17,7 @@ input :: Effect String
 input = readTextFile UTF8 "src/Day6/input.txt"
 
 firstConsecutives :: Array Char -> Int -> Int -- My first solution is exceeding stack size apparently
-firstConsecutives a k = if (length $ nub $ slice k (k+4) a) == 4 then k+3 else firstConsecutives a k+1  
+firstConsecutives a k = if (length $ nub $ slice k (k+4) a) == 4 then k+4 else firstConsecutives a k+1  
 
 group4 ∷ ∀ (a14 ∷ Type). Ord a14 ⇒ Array a14 → Array Int
 group4 a = mapWithIndex (\i _ -> length $ nub $ slice i (i+4) a) a 

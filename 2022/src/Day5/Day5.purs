@@ -5,7 +5,7 @@ module Day5
 
 import Prelude
 
-import Data.Array (cons, deleteAt, foldl, head, index, intersectBy, last, length, mapWithIndex, snoc, tail, take, takeEnd)
+import Data.Array ( deleteAt, foldl, head, index, last, length, mapWithIndex, snoc, take, takeEnd)
 import Data.Int (fromString)
 import Data.Maybe (fromMaybe)
 import Data.String (Pattern(..), Replacement(..), replace, split)

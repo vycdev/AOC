@@ -6,7 +6,7 @@ module Day9
 
 import Prelude
 
-import Data.Array (concat, foldl, last, length, nub, replicate, snoc, tail)
+import Data.Array (concat, foldl, last, length, nub, replicate, snoc)
 import Data.Int (fromString)
 import Data.Maybe (Maybe(..), fromMaybe)
 import Data.String (Pattern(..), split)

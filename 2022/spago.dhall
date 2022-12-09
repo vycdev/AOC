@@ -29,6 +29,7 @@ to generate this file without the comments in this block.
   , "profunctor"
   , "strings"
   , "tree-rose"
+  , "tuples"
   , "unicode"
   , "unsafe-coerce"
   ]

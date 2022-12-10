@@ -61,7 +61,5 @@ main = do
     let solution1 = foldlWithIndex (\i acc x -> if isSolution1Index $ i+1 then acc + (i+1)*x else acc) 0 cycleValues
     let solution2 = joinWith "\n" $ joinWith "" <$> (chunksOf 40 $ foldlWithIndex (\i acc x -> if (x == (i `mod` 40) || (x+1) == (i `mod` 40) || (x-1) == (i `mod` 40)) then snoc acc "⚪" else snoc acc "⚫") [] cycleValues)
 
-    logShow signals
-    logShow cycleValues
     logShow solution1
     log solution2

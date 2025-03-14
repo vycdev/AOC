@@ -7,6 +7,7 @@ This is my repository with my solutions for the very popular programming puzzles
 This repository may contain solutions written in purescript and typescript. 
 
 ## Progress
+- [ ] 2024 - 0/25
 - [ ] 2023 - Zig: 1/25 
 - [ ] 2022 - PureScript: 11/25 
 - [ ] 2021 - PureScript: 5/25 
